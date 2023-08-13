@@ -1,0 +1,7 @@
+1)static methods cannot be overridden,inherited  ...can be instantiated/overloaded
+2)final cannot be changed,overridden,inherited ....can be instantiated,overloaded
+3)abstract cannot be instantiated....can be inherited/overridden/overloaded
+4)constructor cannot be static ,final,abstract...can overload but cannot override.
+5)this and super cannot be used in static method.
+6)
+

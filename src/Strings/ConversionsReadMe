@@ -1,0 +1,33 @@
+///////////////////////////////////////////////////////////////
+int a=10;
+int to string--------String s=Integer.toString(a) String.valueOf(a);
+int to float---------Float f=Float.valueOf(a)
+int to double--------Double d=Double.valueOf(a)
+int to char----------char c=(char)a;
+//
+String s="10";
+string to int--------int s=Integer.parseInt(s);  
+string to float------Float f=Float.parseFloat(s);  
+string to double-----Double d=Double.parseDouble(s);
+string to char-------char[] ch=s1.toCharArray(); // retruns all the characters in s string
+//
+float f = 123.45f;
+float to int---------int x = (int) f;
+float to double------
+float to string------String s=String.valueOf(f2); || Float.toString(f2)
+float to char--------char ch = (char)f;
+//
+double d=10.0;
+double to int---------int i=(int)d;
+double to float-------Float f=(float)d;
+double to string------String.valueOf(d) || Double.toString(d)
+double to char--------char ch = (char)d
+//
+char ch='a';   
+char to int------------int a=ch; assign directly
+char to float----------float f = (float)ch; 
+char to string---------String s=Character.toString(ch);
+char to double---------double d = (double)ch
+
+
+
